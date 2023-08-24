@@ -5,15 +5,27 @@
 
 ## **1. Tema elegido:**
 
-#### acá explicar el tema. Síntesis del proyecto en 3-5 párrafos. Debe incorporar antecedentes clave, breve descripción del contexto e historia.
+#### En Chile el vino es uno de los principales elementos de exportación a otros mercados, además de ser uno de los productos más importantes y conocido de nuestro país. En los últimos años ha sufrido críticas junto a otras formas de hacer agricultura sobre su poco respeto por el medio ambiente y como esta industria utiliza ciertos elementos como el agua de manera inadecuada y no tomando el real peso de estos actos. Por esta razón diferentes organizaciones han creado estándares mínimos para certificar la producción de vino.
+
+#### Es por esto que nuestro proyecto de investigación se enfocará en el vino sustentable y su proceso, como también en las diferencias y la comparación con el proceso tradicional del vino. Pero ¿qué es el vino sustentable?
+
+#### El vino sustentable hace referencia a las prácticas agrícolas y de elaboración del vino que siguen los viticultores para obtener una certificación que compruebe que cumplen con ciertos estándares ecológicos. Estos abarcan desde el compostaje de desechos para producir fertilizantes, la conservación del agua, la disminución en el consumo de energía hasta cómo es el uso de pesticidas.
+
+#### Hoy en día existe el Código de Sustentabilidad creado por la Industria Vitivinícola Chilena. Este es un estándar de carácter voluntario, que guía a las empresas vitivinícolas en el desafío de trabajar de manera sustentable sobre la base de requisitos en tres áreas complementarias: viñedo, bodega-planta de embotellado y área social.
+
+#### Es una iniciativa abierta a todas las viñas chilenas y el objetivo es posicionar al vino chileno, por sobre las empresas de manera individual. Se ha logrado consolidar como una iniciativa relevante para el sector vitivinícola nacional y ha empezado a formar parte de la imagen del vino chileno. 
 
 ### **2. Hipótesis:**  ¿Qué se quiere demostrar o revelar? 
 
-#### 1-2 párrafos
+#### La producción sustentable de vino en Chile está logrando posicionarse por sobre el tradicional rápidamente como el principal método de producción.
 
 ### **3. Antecedentes:**
 
-#### ¿Qué tipos de datos investigan? Explicar cuáles son los orígenes de los datos y su naturaleza ¿Qué se ha publicado antes sobre el tema?
+#### Los datos ha investigar son el número de viñas sustentables en Chile y en cuanto tiempo se ha logrado ese número. Es necesario hacer una comparación entre la cantidad de viñas sustentables y las tradicionales.  Además, ver y analizar la forma en que se entrega la certificación, cuáles son los parámetros y las garantías que se toman en cuenta. 
+
+#### Los datos son creados por “Vinos de Chile”, agrupación que se encarga de certificar a las diferentes viñas del país. La naturaleza de estos es de manera cuantitativa, ya que los productores deben estar por sobre ciertos parámetros para cumplir los requisitos mínimos. Además, podemos contar con el análisis de una viña en específico respecto a estos casos, la Viña Ventisquero, la primer Viña en Chile que logró la sustentabilidad.
+
+#### Anteriormente se han hecho múltiples publicaciones sobre qué es un vino sustentable, además de los requisitos mínimos para poder tener esa denominación. Tanto “Vinos de Chile” como diferentes agricultores han entregado su visión de por qué es importante y por qué Chile debe optar por esta opción, además de incentivar el uso de practicas sustentables para así cooperar y optar por una mejor producción. 
 
 ### **4. ¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo?**
 
