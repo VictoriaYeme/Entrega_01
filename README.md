@@ -29,15 +29,29 @@
 
 ### **4. ¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo?**
 
-#### El vino fue y sigue siendo un aporte económico significativo en Chile. Además, es parte de su cultura e historia. Como grupo nos interesaba abordar un tema con historia y que tenga gran valor en la sociedad chilena. El vino es 
+#### El vino fue y sigue siendo un aporte económico significativo en Chile. Además, es parte de su cultura e historia. Como grupo nos interesaba abordar un tema con historia y que tenga gran valor en la sociedad chilena. El vino se remota desde apróxidamente el siglo XIX y varios de los vinos chilenos han logrado alcanzar un gran éxito mundial. Asimismo, creemos que su análisis es adecuado para encontrar una gran cantidad de datos y articularlos de forma interactiva en nuestra página web. De esta manera, nos pusimos a pensar en temas contingentes que le estan dando un vuelco a la industria de la elaboración del vino. Es así, como nos encontramos con los distintos procesos de producción del vino y la naciente preocupación por el medio ambiente. Actualmente, es importante pensar en la sustentabilidad y en las generaciones futuras. Por lo anterior, muchas industrias estan buscando adpatarse a las nuevas preocupaciones del mundo. El vino ha logrado encontrar nuevas formas más sustentables de elaborar sus productos, y a lo anterior se le ha dado un reconocimiento importante. Creemos que como consumidores y productores debemos ser conscientes, tanto en lo social como en lo ambiental. Es así como nos interesó investigar esta nueva rama del vino y cuáles son los procesos que deben hacer para dar cara a esta nueva problematica. Creemos que el vino sustentable es un nuevo y mejor futuro para la Industria Vitivinícola Chilena.
 
 ### **5. ¿Cómo planea trabajar los datos?**
 
-#### ¿Qué datos necesita para probar su hipótesis?
+#### ¿Qué datos necesita para probar su hipótesis? 
+
+##### Necesitamos comprobar, análizar y diferenciar las viñas que ocupan procesos sustentables de las que no lo hacen. Además, encontrar datos que prueben los beneficios que tienen estos nuevos procesos para el medio ambiente. Incluso, nos gustaría comparar los impactos de ambos procesos.
+
 #### ¿Qué datos tiene y qué datos necesita conseguir aún? Elabore una lista de fuentes de datos.
-#### ¿Qué datos no existen y cómo los obtendrá?
+
+##### Tenemos datos acerca de los procesos para certificarse como una industria sustentable y cuáles son los requisitos. Nos falta buscar más información de las ubicaciones de las viñas ecológicas en Chile, más datos para comparar los beneficios, entre otros. Además, varias páginas del gobierno mencionan que Chile es uno de los productores más sostenibles del mundo, nos gustaría comprobar eso.
+
+#### ¿Qué datos no existen y cómo los obtendrá? 
+
+##### Aún no estamos conscientes de datos que no existen. Creemos que como es un tema interesante para muchas personas y expertos tenemos mucha información a nuestro favor.
+
 #### ¿Qué datos son públicos y cuáles no?
+
+##### La mayoría de las viñas son privadas, esos podrían ser datos ocultos. Más que todo las ganancias. Sin embargo, en sus páginas e investagaciones hay suficiente información para estudiar este campo. Tanto desde la elaboración tradicional como desde la nueva, la medioambiental. 
+
 #### ¿Qué datos son confiables y cuáles no?
+
+##### Los del gobierno son confiables. Los de privados habría que investigar mucho más. Los certificados legales son de gran ayuda.
 
 ### **6. ¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?**
 
