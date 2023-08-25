@@ -87,4 +87,5 @@
 
 ## Presentación
 
-#### [Video](https://www.youtube.com/watch?v=1tZZEIqYt34)
+#### [Video](hhttps://www.youtube.com/watch?v=nMmDidR8_ag)
+#### [Presentación](https://drive.google.com/file/d/1r_mE_CwL8H5Z9zSl-4VSW0INp-KvzLPa/view?usp=sharing)
