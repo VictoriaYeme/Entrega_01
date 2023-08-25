@@ -63,7 +63,6 @@
 
 ##### Lo máximo que podemos contar como historia es usar los datos que tenemos y los que recolectemos a futuro, para armar un proyecto comprensible con imagenes o dibujos explicativos y herramientas interactivas, para facilitar la comprención de la audiencia.
 
-
 #### ¿Cuáles son las preguntas que se pueden responder con los datos?
 
 ##### Con los datos disponibles en la web, podremos responder a preguntas claves para este tema. Partiendo por diferenciar la producción clásica de vino a la sustentable, luego el porqué se ha impulsado la producción sostenible de vinos y cuáles son sus beneficios. Otra pregunta a responder será relacionada a comparar la producción chilena de vino sustentable con la producción en otros países vinícolas. 
