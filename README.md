@@ -3,7 +3,7 @@
 
 ### Grupo: Felipe Gallet, Ignacio Muñoz y María Victoria Yeme
 
-## **1. Tema elegido:**
+## **1. Tema elegido:** La producción del vino
 
 #### En Chile el vino es uno de los principales elementos de exportación a otros mercados, además de ser uno de los productos más importantes y conocido de nuestro país. En los últimos años ha sufrido críticas junto a otras formas de hacer agricultura sobre su poco respeto por el medio ambiente y como esta industria utiliza ciertos elementos como el agua de manera inadecuada y no tomando el real peso de estos actos. Por esta razón diferentes organizaciones han creado estándares mínimos para certificar la producción de vino.
 
@@ -57,22 +57,29 @@
 
 #### ¿Qué es lo mínimo que se puede contar como historia con los datos que tienen?
 
-#### Con los datos que contamos actualmente, lo mínimo que se puede contar como historia es respecto al proceso en que las viñas empezaron a cambiar ciertas prácticas en la producción del vino para el desarrollo sustentable de este. Contar los beneficios y como se ha impulsado este cambio en la industria vinícola, una de las industrias más importantes y reconocidas de nuestro país. Contar por qué es relevante el desarrollo sustentable del vino en Chile.
+##### Con los datos que contamos actualmente, lo mínimo que se puede contar como historia es respecto al proceso en que las viñas empezaron a cambiar ciertas prácticas en la producción del vino para el desarrollo sustentable de este. Contar los beneficios y como se ha impulsado este cambio en la industria vinícola, una de las industrias más importantes y reconocidas de nuestro país. Contar por qué es relevante el desarrollo sustentable del vino en Chile.
 
 #### ¿Qué es lo máximo que se puede contar como historia con los datos que tienen?
 
+##### Lo máximo que podemos contar como historia es usar los datos que tenemos y los que recolectemos a futuro, para armar un proyecto comprensible con imagenes o dibujos explicativos y herramientas interactivas, para facilitar la comprención de la audiencia.
+
+
 #### ¿Cuáles son las preguntas que se pueden responder con los datos?
 
-#### Con los datos disponibles en la web, podremos responder a preguntas claves para este tema. Partiendo por diferenciar la producción clásica de vino a la sustentable, luego el porqué se ha impulsado la producción sostenible de vinos y cuáles son sus beneficios. Otra pregunta a responder será relacionada a comparar la producción chilena de vino sustentable con la producción en otros países vinícolas. 
+##### Con los datos disponibles en la web, podremos responder a preguntas claves para este tema. Partiendo por diferenciar la producción clásica de vino a la sustentable, luego el porqué se ha impulsado la producción sostenible de vinos y cuáles son sus beneficios. Otra pregunta a responder será relacionada a comparar la producción chilena de vino sustentable con la producción en otros países vinícolas. 
 
 #### ¿Qué tipo de elementos digitales les gustaría tener?
 
-#### En nuestro proyecto buscaremos tener información dura, combinada con imágenes explicativas. Esto ya que el uso de imágenes nos ayudarán a poder explicar qué es el vino sustentable, sus procesos, sus beneficios y demás características, de una manera más simple y amena. Además, el uso de gráficos también podrá ser un gran aporte para el proyecto. 
+##### En nuestro proyecto buscaremos tener información dura, combinada con imágenes explicativas. Esto ya que el uso de imágenes nos ayudarán a poder explicar qué es el vino sustentable, sus procesos, sus beneficios y demás características, de una manera más simple y amena. Además, el uso de gráficos también podrá ser un gran aporte para el proyecto. 
 
 #### ¿Cómo esos elementos ayudarán a contar su historia?
 
-#### Al combinar tanto la información dura, como el uso de imágenes y gráficos, buscaremos enriquecer nuestro proyecto periodístico. Información dura porque siempre es necesaria, pero también alto uso de imágenes para explicar procesos y detalles importantes sobre la producción sustentable del vino. Por último, el uso de gráficos nos permitirá comparar ciertas cosas, como Chile versus otros países vinícolas en la materia.
+##### Al combinar tanto la información dura, como el uso de imágenes y gráficos, buscaremos enriquecer nuestro proyecto periodístico. Información dura porque siempre es necesaria, pero también alto uso de imágenes para explicar procesos y detalles importantes sobre la producción sustentable del vino. Por último, el uso de gráficos nos permitirá comparar ciertas cosas, como Chile versus otros países vinícolas en la materia.
 
 ### **7. Base de datos inicial**
 
-#### Compartan la base de datos inicial que utilizarán para el proyecto. Puede ser un archivo csv, un link a una base de datos, etc.
+#### [Link sobre Sustentabilidad sectorial: Vinos de Chile](https://www.odepa.gob.cl/wp-content/uploads/2019/07/SustentabilidadVinosDeChile2015.pdf)
+
+#### [Link sobre Chile uno de los productores de vino más sostenibles del mundo](https://blog.investchile.gob.cl/bloges/chile-productor-vino-sostenible)
+
+#### [Link sobre Código de Sustentabilidad y Viñas certificadas](https://www.sustentavid.org/)
