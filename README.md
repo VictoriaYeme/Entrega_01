@@ -29,6 +29,8 @@
 
 ### **4. ¿Cuál es la historia de su propuesta de investigación? ¿Qué es lo nuevo?**
 
+#### El vino fue y sigue siendo un aporte económico significativo en Chile. Además, es parte de su cultura e historia. Como grupo nos interesaba abordar un tema con historia y que tenga gran valor en la sociedad chilena. El vino es 
+
 ### **5. ¿Cómo planea trabajar los datos?**
 
 #### ¿Qué datos necesita para probar su hipótesis?
@@ -40,17 +42,21 @@
 ### **6. ¿Cuál es el resultado mínimo previsible del trabajo a realizar? ¿Cuál es el máximo?**
 
 #### ¿Qué es lo mínimo que se puede contar como historia con los datos que tienen?
+
 #### Con los datos que contamos actualmente, lo mínimo que se puede contar como historia es respecto al proceso en que las viñas empezaron a cambiar ciertas prácticas en la producción del vino para el desarrollo sustentable de este. Contar los beneficios y como se ha impulsado este cambio en la industria vinícola, una de las industrias más importantes y reconocidas de nuestro país. Contar por qué es relevante el desarrollo sustentable del vino en Chile.
 
 #### ¿Qué es lo máximo que se puede contar como historia con los datos que tienen?
 
 #### ¿Cuáles son las preguntas que se pueden responder con los datos?
+
 #### Con los datos disponibles en la web, podremos responder a preguntas claves para este tema. Partiendo por diferenciar la producción clásica de vino a la sustentable, luego el porqué se ha impulsado la producción sostenible de vinos y cuáles son sus beneficios. Otra pregunta a responder será relacionada a comparar la producción chilena de vino sustentable con la producción en otros países vinícolas. 
 
 #### ¿Qué tipo de elementos digitales les gustaría tener?
+
 #### En nuestro proyecto buscaremos tener información dura, combinada con imágenes explicativas. Esto ya que el uso de imágenes nos ayudarán a poder explicar qué es el vino sustentable, sus procesos, sus beneficios y demás características, de una manera más simple y amena. Además, el uso de gráficos también podrá ser un gran aporte para el proyecto. 
 
 #### ¿Cómo esos elementos ayudarán a contar su historia?
+
 #### Al combinar tanto la información dura, como el uso de imágenes y gráficos, buscaremos enriquecer nuestro proyecto periodístico. Información dura porque siempre es necesaria, pero también alto uso de imágenes para explicar procesos y detalles importantes sobre la producción sustentable del vino. Por último, el uso de gráficos nos permitirá comparar ciertas cosas, como Chile versus otros países vinícolas en la materia.
 
 ### **7. Base de datos inicial**
