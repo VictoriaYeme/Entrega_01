@@ -5,9 +5,9 @@
 
 #### Hipótesis: La producción sustentable de vino en Chile está logrando posicionarse por sobre la tradicional como el principal método de producción.
 
-#### Para esta entrega en la que había que armar diferentes bases de datos, dividimos el trabajo en tres partes para asi facilitar la búsqueda de información y el armado de las bases de datos. Estas tres categorías fueron: contaminación y sustentabilidad; certificación de la sustentabilidad; y por último, los datos del consumo. 
+#### Para esta entrega en la que había que armar diferentes bases de datos, dividimos el trabajo en tres partes para asi facilitar la búsqueda de información y el armado de las bases de datos. Estas tres categorías fueron: uso del agua y huella hidrica; certificación de la sustentabilidad; y por último, los datos del consumo. 
 
-#### En primer lugar, tenemos la contaminación y sustentabilidad......
+#### En primer lugar, tenemos el uso del agua y la huella hidrica, esta base de datos es sumamente importante para comprender desde sus inicios la necesidad de una producción sustentable del vino, ya que podemos entender los recursos usado en exceso y los que no, la verdader huella que deja esta producción. Así podemos darle la importancia necesaria a la sustentabilidad.
 
 #### Luego, la categoría de la certificación de la sustentabilidad, fue escogida por su relación directa con nuestra hipótesis, ya que era necesario entender el proceso de certificación para poder hablar de ella y la sustentabilidad. Para poder explicar nuestra hipótesis y lo relacionado con el "sello verde" de las viñas, era necesario acudir a fuentes que esten involucradas directamente con el tema, como por ejemplo lo encargados de la certificación y las viñas que son sometidas a este proceso de evaluación para ser declaradas sustentables. También, nos ayudo a entender como ha crecido el mercado sustentable en las empresas vitivinicolas, ya que a pesar de ser solo un 11% de las viñas las que son sustentables, ese porcentaje incluye a las más grandes viñas del país, por lo que se refiere a un porcentaje mayoritario de la venta y exportación de vino desde Chile.
 
