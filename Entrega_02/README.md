@@ -15,4 +15,4 @@
 
 #### Para finalizar, es importante marcar que estas base de datos provienen de fuentes distintas y cumplen en algunos casos ser de diferentes tipos de metodologías, por un lado tenemos listas, por otro porcentajes y dato númericos, como también datos cualitativos que por medio de evaluaciones pueden ser transformados a números para poder entregar una característica final de cada viña. Gracias a esta entrega nos hemos dado cuenta de la importancia de las bases de datos al momento de analizar y reunir datos que pueden estar repartidos entre distintas fuentes y orígenes. 
 
-
+#### [PDF](https://uccl0-my.sharepoint.com/:b:/g/personal/ftgallet_uc_cl/EbtMLH-WsUFIoAwsHiSmNp0BuHdrTdfsHueOh01TCTrq2g?e=HujOLb)
