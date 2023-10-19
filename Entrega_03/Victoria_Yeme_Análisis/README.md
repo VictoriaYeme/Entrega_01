@@ -1,0 +1,7 @@
+#### Análisis Crítico de Victoria Yeme
+
+#### Aprendizajes: Fue divertido poder crear una identidad visual que comunicara algo. Utilizamos Pinterest y Canva para crearla, y luego, la página para hacer el prototipo. Me gustó poder usar la creatividad y descubrir las diferentes maneras que podría ser nuestro prototipo. Siendo nosotros los que decidiamos como se iba a interacuar con los elementos del prototipo.
+
+#### Proyecciones: En la medida de lo posible vamos a intentar crear un wireframe simple que sea fácil de usar y entrege información de manera precisa. Creo que los colores y la tipografía nos ayudará a que sea más dinámico de leer. Me gustaría poder integrar los elementos gráficos que elegimos en nuestro moodboarn. También, se nos ocurrió poner un aviso antes de navegar en la web preguntando si la persona es mayor de edad. Creo que será realmente desafiante poder crear todas las ideas que se nos vienen a la cabeza, por eso creo que es importante "poner los pies en la tierra" y elegir elementos que sean fáciles de colocar y así poder cumplir con nuestras expectativas. 
+
+#### Limitaciones: Como es el primer prototipado creo que todavía estamos intentando hacer el wireframe lo más simple, pero preciso posible. Creo que lograr que cada botón funcione y haga lo que tenga que hacer es lo más complicado. Es error y seguir. La otra limitación es que la Web logré verse similar a lo que es nuestra identidad visual porque ponerlo en prototipado es mucho más difícil que hacer el PDF con las ideas e identidad.  
