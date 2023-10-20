@@ -27,6 +27,8 @@
 
 #### Creación de identidad visual: Elegimos los colores y tipografía simplemente porque comunicaba lo que queriamos lograr. Los colores son los mismos que tiene el vino y otros que complementan bien la idea. La tipografía entregaba la elegancia y simpleza que necesitabamos para un tema tan específico como el vino orgánico. Por último, el logo y los elementos gráficos son literales del tema que trata la Web. 
 
-Prototipado: acá explica Felipe 
+#### Prototipado: Armamos el prototipo en base a los "user journey map" y a todas las necesidades que pueden surgir en torno a los vinos sustentables. El pilar de la página es la información exacta respecto a todas las viñas sustentables y a los datos sobre el vino sustentable en Chile. Es una página web con un inicio donde presentamos el proyecto, allí cuenta con diferentes secciones que te dan un paseo por toda la información. 
 
 #### Link Video de YouTube: https://www.youtube.com/watch?v=ff1bjsXJ0zw
+
+#### Página Web: https://felipegallet99.wixsite.com/chile-tinto
