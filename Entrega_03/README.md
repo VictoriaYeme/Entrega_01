@@ -29,6 +29,4 @@
 
 Prototipado: acá explica Felipe 
 
-ACORDARSE DE SUBIR PRESENTACIÓN PDF
-
-#### Link Video de YouTube:
+#### Link Video de YouTube: https://www.youtube.com/watch?v=ff1bjsXJ0zw
