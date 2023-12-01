@@ -9,14 +9,17 @@
     <meta name="description" content="PÁGINA WEB CHILE TINTO">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&family=Crushed&display=swap">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap">
 </head>
 
 <body> 
+
     <header>
         <div id="header-container">
             <div id="title-container">
                 <h1>CHILE TINTO</h1>
-                <p>BLA BLA</p>
+                <h2 class="subtitle">Un buen vino es sustentable</h2> 
             </div>
             <div id="logo-container">
                 <img src="2.png" alt="Logo">
@@ -24,15 +27,23 @@
         </div>
         <nav>
             <ul>
-                <li><a href="#" onclick="mostrarInfo('info1')">Menu Principal</a></li>
-                <li><a href="#" onclick="mostrarInfo('info2')">Nosotros</a></li>
-                <li><a href="#" onclick="mostrarInfo('info3')">Viñas Certificadas</a></li>
-                <li><a href="#" onclick="mostrarInfo('info4')">Información</a></li>
+                <li><a href="#" onclick="mostrarInfo('info1')">Menú Principal</a></li>
+                <li><a href="#" onclick="mostrarInfo('info2')">Sustentabilidad</a></li>
+                <li><a href="#" onclick="mostrarInfo('info3')">Regiones</a></li>
+                <li><a href="#" onclick="mostrarInfo('info4')">Viñas Certificadas</a></li>
             </ul>
         </nav>
     </header>
 
-    <section id="info1">
+     <!-- Cuadro adicional del menú -->
+     <div id="additional-menu-box">
+        <h3>Cuadro Adicional del Menú</h3>
+        <!-- Contenido del cuadro adicional del menú aquí -->
+    </div>
+
+    <section id="info1" class="info-box"> 
+     
+        <div class="info-content">
         <h2>Bienvenidos a Chile Tinto</h2>
         <p>La industria del vino en Chile ha experimentado una notable evolución en los últimos años, no solo en términos de calidad y diversidad de sus productos, sino también en su compromiso con la sostenibilidad. La concientización sobre la importancia de abordar los desafíos ambientales, sociales y económicos ha llevado a muchas viñas chilenas a adoptar prácticas sustentables en todas las etapas de producción.</p>
 
@@ -48,10 +59,16 @@
 
         <p>En resumen, la sostenibilidad se ha convertido en un elemento fundamental en la identidad de la industria del vino en Chile. Más allá de producir vinos de renombre mundial, las viñas chilenas están cultivando un futuro donde la calidad del vino coexiste armoniosamente con la preservación del medio ambiente y la prosperidad social. Este enfoque integral no solo garantiza la viabilidad a largo plazo de la industria, sino que también establece un estándar para la producción de vinos que respetan el planeta y sus habitantes.</p>
 
-        <p>Viñas sustentables en Chile</p>
+        <p class="special-text">Viñas sustentables en Chile</p>
+     </div>
+     <div class="info-image">
+        <img src="vis_01.png" alt="Gráfico">
+        <p class="additional-text">¡Conoce cómo convertirte en una viña sustentable!</p>
+        <button onclick="mostrarInfo('info2')">Ir a Sustentabilidad</button>
+    </div>
     </section>
 
-    <section id="info2">
+    <section id="info2" class="info-box"> 
         <h2>El Viaje Sustentable de una Viña</h2>
         <p>Esta viña se embarcó en un viaje extraordinario hacía la sostenibilidad, un compromiso profundo con la tierra que la vio florecer y los corazones que la cultivaban.</p>
 
@@ -67,7 +84,7 @@
 
         <p>El compromiso de la viña con la mejora continua se manifestó en cada cosecha. La viña estableció un plan de gestión sustentable, evaluando regularmente sus prácticas y buscando nuevas formas de ser más amigable con el medio ambiente. La certificación de Viña Sustentable se convirtió en un distintivo que simbolizaba el éxito de este viaje hacia la sostenibilidad.</p>
     </section>
-    <section id="info3">
+    <section id="info3" class="info-box"> 
         <h2>El Avance de las Viñas Sustentables en Chile</h2>
         <p>El avance de las viñas sustentables en Chile representa una evolución positiva en la industria vitivinícola del país. La adopción de prácticas sustentables está ganando impulso, evidenciando un compromiso creciente por parte de las viñas con la responsabilidad ambiental y social.</p>
 
@@ -80,7 +97,7 @@
         <p>En resumen, el avance de las viñas sustentables en Chile refleja una transición significativa hacia prácticas más responsables y sostenibles, tanto en términos de producción como de respuesta a las preferencias del mercado.</p>
     </section>
 
-    <section id="info4">
+    <section id="info4" class="info-box"> 
         <!-- Contenido de la sección "Información 4" -->
     </section>
 
