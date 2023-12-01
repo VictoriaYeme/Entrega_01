@@ -59,11 +59,11 @@ nav ul li a {
     text-decoration: none;
     color: #EEE9CC;
     font-weight: bold;
-    transition: color 0.3s ease; /* Efecto de transición de color al pasar el ratón */
+    transition: color 0.3s ease;
 }
 
 nav ul li a:hover {
-    color: #FFD700; /* Cambia a tu color deseado al pasar el ratón */
+    color: #FFD700;
 }
 
 /* Estilos para las secciones */
@@ -95,6 +95,38 @@ h1, h2, #title-container p {
     background-color: #EEE9CC;
 }
 
+/* Estilos para el cuadro adicional del menú */
+#additional-menu-box {
+    background-color: #EEE9CC;
+    padding: 20px;
+    text-align: center;
+    margin: 20px 0;
+    display: none;
+}
+
+#additional-menu-box img {
+    width: 80%;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.additional-text {
+    text-align: justify;
+}
+
+.additional-text h3 {
+    margin-bottom: 10px;
+}
+
+.additional-text p {
+    margin-bottom: 10px;
+}
+
+/* Otros estilos para mantener la consistencia con el diseño general */
+.additional-text p {
+    margin-bottom: 10px;
+}
+
 #info1 img {
     display: block;
     margin: auto;
@@ -111,7 +143,7 @@ body, h1, h2, p, a {
     font-family: 'Quattrocento', sans-serif, 'Alex Brush', cursive;
 }
 
-/* Tu enlace visitado (puedes personalizar el color) */
+/* Tu enlace visitado */
 nav ul li a:visited {
     color: #EEE9CC;
 }
@@ -119,7 +151,3 @@ nav ul li a:visited {
 /* Importar fuentes de Google */
 @import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&family=Crushed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
-
-
-<link rel="stylesheet" type="text/css" href="style.css">
-
