@@ -137,6 +137,8 @@ h1, h2, #title-container p {
 }
 
 
+
+
 /* Estilos para los botones en la página de sustentabilidad */
 #info2 button {
     color: white;
@@ -226,3 +228,29 @@ footer {
 /* Importar fuentes de Google */
 @import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&family=Crushed&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Alex+Brush&display=swap');
+
+/* Estilos para la barra de progreso */
+.progress-bar {
+    position: relative;
+    width: 80%;
+    height: 20px;
+    background: linear-gradient(to right, red, green);
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 20px auto; /* Ajusta según tus necesidades */
+  }
+  
+  .arrow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    border-radius: 50%;
+    transform: translateX(0);
+    transition: transform 0.5s ease;
+  }
+  
+  /* Agrega estos estilos al final de tu archivo style.css */
+  
