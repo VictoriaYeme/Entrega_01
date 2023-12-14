@@ -13,22 +13,15 @@ header {
     padding: 10px 20px;
 }
 
-
 ul {
     list-style: none;
     padding: 0;
-}
-
-ul li {
-    margin-bottom: 5px;
 }
 
 .copyright {
     margin-top: 20px;
     font-size: 0.8rem;
 }
-
-
 
 #header-container {
     display: flex;
@@ -63,7 +56,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #FFD700;
+    color: #681212;
 }
 
 /* Estilos para las secciones */
@@ -88,7 +81,7 @@ h1, h2, #title-container p {
 }
 
 /* Estilos para información específica */
-#info1, #info2, #info3, #info4 {
+.info-box {
     border: 2px solid #EEE9CC;
     padding: 20px;
     text-align: justify;
@@ -107,7 +100,6 @@ h1, h2, #title-container p {
 #additional-menu-box img {
     width: 80%;
     height: auto;
-    margin-bottom: 20px;
 }
 
 .additional-text {
@@ -118,11 +110,6 @@ h1, h2, #title-container p {
     margin-bottom: 10px;
 }
 
-.additional-text p {
-    margin-bottom: 10px;
-}
-
-/* Otros estilos para mantener la consistencia con el diseño general */
 .additional-text p {
     margin-bottom: 10px;
 }
@@ -138,15 +125,103 @@ h1, h2, #title-container p {
     font-weight: bold;
 }
 
-/* Fuentes de respaldo */
-body, h1, h2, p, a {
-    font-family: 'Quattrocento', sans-serif, 'Alex Brush', cursive;
+/* Estilos para las secciones de información adicional */
+.info-adicional {
+    display: none;
 }
 
-/* Tu enlace visitado */
-nav ul li a:visited {
-    color: #EEE9CC;
+#info2 h2 {
+    font-family: 'Quattrocento', sans-serif;
+    font-weight: normal; 
+    font-size: 1.4rem;
 }
+
+
+/* Estilos para los botones en la página de sustentabilidad */
+#info2 button {
+    color: white;
+    padding: 15px 25px;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#info2 button:nth-child(1) {
+    background-color: #4ac445; /* Azul */
+}
+
+#info2 button:nth-child(2) {
+    background-color: #ffa600; /* Naranja */
+}
+
+#info2 button:nth-child(3) {
+    background-color: #cc3c32; /* Violeta */
+}
+
+#info2 button:nth-child(4) {
+    background-color: rgb(102, 37, 102); /* Rojo */
+}
+
+/* Agrega estos estilos al final de tu archivo style.css */
+
+footer {
+    background-color: #3C0000;
+    color: white; /* Para cambiar el color del texto en el footer, puedes ajustar este valor según tus preferencias */
+    padding: 20px 0; /* Ajusta el relleno según tus necesidades */
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.footer-section {
+    text-align: center;
+}
+
+.footer-section a {
+    color: white;
+    text-decoration: none;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Añade estos estilos al final de tu archivo style.css */
+
+.info-image-and-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 20px; /* Ajusta según tus necesidades */
+}
+
+.info-image {
+    flex-basis: calc(30% - 10px); /* Ajusta según tus necesidades */
+    margin-right: 10px; /* Ajusta según tus necesidades */
+}
+
+.additional-buttons {
+    flex-basis: calc(60% - 10px); /* Ajusta según tus necesidades */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px; /* Ajusta según tus necesidades */
+    align-items: center;
+}
+
+.additional-buttons button {
+    width: 100%;
+}
+
 
 /* Importar fuentes de Google */
 @import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&family=Crushed&display=swap');

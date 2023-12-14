@@ -20,5 +20,21 @@ function mostrarInfo(id) {
     }
 }
 
+function mostrarInformacionAdicional(region) {
+    // Obtener la sección de información adicional correspondiente a la región
+    var regionInfo = document.getElementById(region + '-info');
+    
+    // Ocultar todas las secciones de información adicional
+    var seccionesInfoAdicional = document.querySelectorAll('.info-adicional');
+    seccionesInfoAdicional.forEach(function (seccion) {
+        seccion.style.display = 'none';
+    });
+
+    // Mostrar la sección específica de información adicional
+    if (regionInfo) {
+        regionInfo.style.display = 'block';
+    }
+}
+
 // Asegúrate de llamar a la función al cargar la página para mostrar la sección inicial
 mostrarInfo('info1');
