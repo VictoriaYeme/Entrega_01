@@ -5,3 +5,5 @@
 ### También agregamos una voz protagonista al contar la historia, para así darle una narrativa más de reportaje.
 
 ### Ambos trabajamos a la par y comparando nuestros avances para poder entregar la mejor versión. 
+
+### En la carpeta docs está todo lo relacionado con html, javascript y css. 
